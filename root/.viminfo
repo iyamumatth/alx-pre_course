@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq
-|2,0,1664180825,,"wq"
 :q
-|2,0,1664139497,,"q"
+|2,0,1665020619,,"q"
+:wq
+|2,0,1665019322,,"wq"
 :w
 |2,0,1664139202,,"w"
 :wwwwwww
@@ -39,244 +39,372 @@
 # Registers:
 
 # File marks:
-'0  2  12  ~/alx-pre_course/0x01-git/bash/school
-|4,48,2,12,1664180825,"~/alx-pre_course/0x01-git/bash/school"
-'1  2  9  ~/alx-pre_course/0x01-git/bash/alx
-|4,49,2,9,1664180733,"~/alx-pre_course/0x01-git/bash/alx"
-'2  1  0  ~/alx-pre_course/0x01-git/js/index.js
-|4,50,1,0,1664180603,"~/alx-pre_course/0x01-git/js/index.js"
-'3  1  0  ~/alx-pre_course/0x01-git/js/main.js
-|4,51,1,0,1664180584,"~/alx-pre_course/0x01-git/js/main.js"
-'4  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,52,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
-'5  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,53,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
-'6  1  0  ~/0x01-git/bash/alx
-|4,54,1,0,1664139497,"~/0x01-git/bash/alx"
-'7  1  0  ~/0x01-git/bash/school
-|4,55,1,0,1664139318,"~/0x01-git/bash/school"
-'8  1  0  ~/0x01-git/bash/school
-|4,56,1,0,1664138035,"~/0x01-git/bash/school"
-'9  1  0  ~/0x01-git/bash/school
-|4,57,1,0,1664133988,"~/0x01-git/bash/school"
+'0  1  0  /tmp/6-firstdirectory
+|4,48,1,0,1665020619,"/tmp/6-firstdirectory"
+'1  1  0  /tmp/6-firstdirector
+|4,49,1,0,1665020573,"/tmp/6-firstdirector"
+'2  2  4  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,50,2,4,1665019322,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'3  2  26  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,51,2,26,1665018808,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'4  2  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,52,2,10,1665018186,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'5  2  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,53,2,10,1665018186,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+'6  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,54,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+'7  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,55,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+'8  2  4  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,56,2,4,1664987943,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+'9  2  4  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,57,2,4,1664987526,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
 
 # Jumplist (newest first):
--'  2  12  ~/alx-pre_course/0x01-git/bash/school
-|4,39,2,12,1664180825,"~/alx-pre_course/0x01-git/bash/school"
--'  1  0  ~/alx-pre_course/0x01-git/bash/school
-|4,39,1,0,1664180769,"~/alx-pre_course/0x01-git/bash/school"
--'  2  9  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,9,1664180733,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  9  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,9,1664180733,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1664180665,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1664180665,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/js/index.js
-|4,39,1,0,1664180603,"~/alx-pre_course/0x01-git/js/index.js"
--'  1  0  ~/alx-pre_course/0x01-git/js/index.js
-|4,39,1,0,1664180603,"~/alx-pre_course/0x01-git/js/index.js"
--'  1  0  ~/alx-pre_course/0x01-git/js/index.js
-|4,39,1,0,1664180603,"~/alx-pre_course/0x01-git/js/index.js"
--'  1  0  ~/alx-pre_course/0x01-git/js/index.js
-|4,39,1,0,1664180603,"~/alx-pre_course/0x01-git/js/index.js"
--'  1  0  ~/alx-pre_course/0x01-git/js/main.js
-|4,39,1,0,1664180584,"~/alx-pre_course/0x01-git/js/main.js"
--'  1  0  ~/alx-pre_course/0x01-git/js/main.js
-|4,39,1,0,1664180584,"~/alx-pre_course/0x01-git/js/main.js"
--'  1  0  ~/alx-pre_course/0x01-git/js/main.js
-|4,39,1,0,1664180584,"~/alx-pre_course/0x01-git/js/main.js"
--'  1  0  ~/alx-pre_course/0x01-git/js/main.js
-|4,39,1,0,1664180584,"~/alx-pre_course/0x01-git/js/main.js"
--'  1  0  ~/alx-pre_course/0x01-git/js/main.js
-|4,39,1,0,1664180584,"~/alx-pre_course/0x01-git/js/main.js"
--'  1  0  ~/alx-pre_course/0x01-git/js/main.js
-|4,39,1,0,1664180584,"~/alx-pre_course/0x01-git/js/main.js"
--'  1  0  ~/alx-pre_course/0x01-git/js/main.js
-|4,39,1,0,1664180584,"~/alx-pre_course/0x01-git/js/main.js"
--'  1  0  ~/alx-pre_course/0x01-git/js/main.js
-|4,39,1,0,1664180584,"~/alx-pre_course/0x01-git/js/main.js"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c/c_is_fun.c
-|4,39,1,0,1664180548,"~/alx-pre_course/0x01-git/c/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/alx-pre_course/0x01-git/c_is_fun.c
-|4,39,1,0,1664180475,"~/alx-pre_course/0x01-git/c_is_fun.c"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
--'  1  0  ~/0x01-git/bash/alx
-|4,39,1,0,1664139497,"~/0x01-git/bash/alx"
+-'  1  0  /tmp/6-firstdirectory
+|4,39,1,0,1665020619,"/tmp/6-firstdirectory"
+-'  1  0  /tmp/6-firstdirector
+|4,39,1,0,1665020573,"/tmp/6-firstdirector"
+-'  1  0  /tmp/6-firstdirector
+|4,39,1,0,1665020573,"/tmp/6-firstdirector"
+-'  2  4  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,4,1665019322,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  4  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,4,1665019322,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  4  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,4,1665019322,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  4  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,4,1665019322,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  26  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,26,1665018808,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  26  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,26,1665018808,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  26  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,26,1665018808,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  26  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,26,1665018808,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,10,1665018186,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,10,1665018186,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,10,1665018186,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  10  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,2,10,1665018186,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+|4,39,1,0,1665018139,"~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1664988838,"~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
+-'  1  0  ~/alx-system_engineering-devops/4-listmorefiles
+|4,39,1,0,1664988765,"~/alx-system_engineering-devops/4-listmorefiles"
 
 # History of marks within files (newest to oldest):
 
-> ~/alx-pre_course/0x01-git/bash/school
-	*	1664180819	0
-	"	2	12
-	^	2	13
-	.	2	12
-	+	2	12
+> /tmp/6-firstdirectory
+	*	1665020613	0
+	"	1	0
+
+> /tmp/6-firstdirector
+	*	1665020558	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+	*	1665019315	0
+	"	2	4
+	^	2	5
+	.	2	5
+	+	2	5
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+	*	1664988829	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
+
+> ~/alx-system_engineering-devops/4-listmorefiles
+	*	1664988755	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefile
+	*	1664987466	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/2-bring_me_home
+	*	1664985980	0
+	"	2	1
+	^	2	2
+	.	2	2
+	+	2	2
+
+> ~/alx-system_engineering-devops/.git/COMMIT_EDITMSG
+	*	1664985435	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+	*	1664982749	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	11
+	+	2	46
+	+	1	10
+	+	2	38
+	+	1	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_director
+	*	1664971786	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/alx-zero_day/.git/COMMIT_EDITMSG
+	*	1664912534	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/alx-zero_day/0x03-git/README.md
+	*	1664909822	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+
+> ~/alx-zero_day/README.md
+	*	1664909611	0
+	"	1	0
+
+> /alx-zero_day/.git/COMMIT_EDITMSG
+	*	1664879161	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+	y	1	0
+
+> /alx-zero_day/0x03-git/README.md
+	*	1664879066	0
+	"	1	0
+
+> /alx-zero_day/README.md
+	*	1664878485	0
+	"	1	0
+
+> ~/alx-pre_course/0x01-git/.gitignore
+	*	1664660575	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/alx-pre_course/0x01-git/.gitignor
+	*	1664659590	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
 
 > ~/alx-pre_course/0x01-git/bash/alx
-	*	1664180727	0
-	"	2	9
-	^	2	10
-	.	2	10
-	+	2	10
+	*	1664656777	0
+	"	1	0
+	^	1	0
+	.	3	0
+	+	1	21
+	+	1	0
+	+	1	11
+	+	1	9
+	+	1	17
+	+	1	0
+	+	3	0
+
+> ~/alx-pre_course/0x01-git/up_to_date
+	*	1664422394	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> ~/alx-pre_course/.git/COMMIT_EDITMSG
+	*	1664419484	0
+	"	1	6
+	^	1	7
+	.	1	0
+	+	1	0
+
+> ~/alx-pre_course/0x01-git/bash/school
+	*	1664415736	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	2	12
+	+	1	18
 
 > ~/alx-pre_course/0x01-git/js/index.js
 	*	1664180598	0
